@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api": {
+      "handler": "main.handler",
+      "runtime": "python3.8"
+    }
+  }
+}
